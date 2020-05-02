@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 import Header from "./components/Header"
-import Listaphone from "./components/lista_phone/Lista_phone"
-import CarritoCompras from "./components/carrito_compras/Carrito_Compras"
+import Listaphone from "./components/lista_phone"
+import CarritoCompras from "./components/carrito_compras"
 import { v4 as uuidv4 } from "uuid"
 
 
